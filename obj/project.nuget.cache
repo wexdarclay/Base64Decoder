@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KTNJGyIX3PVi5BWUMDQOf56sDZGsHQrN82pMHaIrM8jVg1rweZcF3sr/gOSyJIU8T8yGJXVF5wUAQ6ylEoCAnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\W510517\\Desktop\\Practice\\Base64Decoder\\Base64Decoder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\W510517\\.nuget\\packages\\documentformat.openxml\\2.19.0\\documentformat.openxml.2.19.0.nupkg.sha512",
+    "C:\\Users\\W510517\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
